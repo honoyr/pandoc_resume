@@ -1,4 +1,4 @@
-Johnny Coder
+Denys Gonor
 ============
 
 ----
@@ -6,19 +6,24 @@ Johnny Coder
 >  In this style, the resume starts with a blockquote, where
 >  you can briefly list your specialties, or include a salient
 >  quote. Ending a line with a backslash forces a line break.
+> C/C++, Java, JavaScript, SQL, HTML, CSS, Shell Scripting, Git
+> Bixby Developer Tool
+> Google Cloud Platform, Docker.
+> Node.js, Apache, Postman, CI/CD, Jenkins, JMeter, Selenium-IDE, Selenium WebDriver.
+> Jira, Redmine, BugTracker.
+> Waterfall, Agile, XP, Kanban, Scrum.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2010-2014 (expected) :   **PhD, Computer Science**; Awesome University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
+2008-2013
 :   **BSc, Computer Science and Electrical Engineering**; University of
     HomeTown (HomeTown)
 
