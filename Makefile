@@ -3,7 +3,7 @@ IN_DIR=markdown
 STYLES_DIR=styles
 STYLE=chmduquesne
 
-all: html pdf docx rtf
+all: html pdf docx rtf move time
 
 pdf: init
 	for f in $(IN_DIR)/*.md; do \
@@ -53,6 +53,12 @@ version:
 	else \
 		SMART=--smart; \
 	fi \
+
+move:
+	cp -rf output/ ../htdocs/
+ 
+time:
+	echo "$(date)"
 
 clean:
 	rm -f $(OUT_DIR)/*
