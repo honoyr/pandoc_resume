@@ -1,8 +1,8 @@
 Dennis Gonor
 ============
-> **Software Development Engineer**
+> **Software Engineer**
 
-> Fremont, CA  ●  <dennis.gonor@gmail.com> ●  (408) 444-5271 ● Authorized to work in U.S. for any employe ●  [GitHub](https://github.com/honoyr/)(honoyr)*
+> Fremont, CA  ●  <dennis.gonor@gmail.com> ●  (408) 444-5271 ● Authorized to work in U.S. for any employee ●  [GitHub](https://github.com/honoyr/)(honoyr)*
 
 ------
 
@@ -14,41 +14,31 @@ Dennis Gonor
 
 Summary
 ---------
-* Experience on core C/C++, JAVA programming languages and Object-Oriented Programming (OOP) concepts for designing, developing
+* Experience in core C/C++, JAVA programming languages and Object-Oriented Programming (OOP).
 * Implementation of a program according to a given class diagram written in UML diagram.
-* Develop and execute test plans for software qualification and to ensure high quality software delivery.
 * Effectively using GIT and GitHub tools for maintaining the version controlling.
 * Experienced in various domains such as Finance, E-commerce, Retail, Entertainment.
-
 
 Experience
 ----------
 
 **[POSTOHUB](http://www.postohub.io):** |                             April 2019 - present ( Fremont, CA)
 -------------------- | ----------------
-**Co-founder & Product Manager**
+
+**Software Engineer**
 
 PostoHub is an email marketing tool to send millions of emails.
 
-* Gathered the team
+* Designed and implemented  Third Party Affiliate Program Solution.
 
-* Created and drove product vision and strategy
+* Developed/maintained and extended PostoHub frontend and backend software systems.
 
-* Validated value proposition and business model
-
-* Developed the product roadmap and ranged the features by priority
-
-* Worked with the development team to bring new features to live
-
-* Created partnership program and drove the partner onboarding process
-
-* Managed business development team
-
+* Looked for and propose changes to the code base and/or processes that improve the quality and efficiency of the product or team.
 
 **[WOW PRODUCTION](https://www.wowproduction.biz/):** |               2014 - 2017 ( Ukraine)
 -------------------- | ----------------
 
-**Founder and Film Producer**
+**Founder and Executive Producer**
 
 * Searched for new clients
 
@@ -79,7 +69,7 @@ Open Source
 
 :   42 School [Student Portal](https://cheatera.pp.ua/) - open source project on [github](https://github.com/cheatera-pp-ua/cheatera.pp.ua)
 
-Linguavoice
+Lingua
 
 :   [Voice application](https://youtu.be/7Cx90xXxALc) for English learners created for the **Bixby Marketplace**
 
