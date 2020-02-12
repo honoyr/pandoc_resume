@@ -2,7 +2,7 @@ Dennis Gonor
 ============
 > **Software Engineer**
 
-> Fremont, CA  ●  <dennis.gonor@gmail.com> ●  (408) 444-5271 ● Authorized to work in U.S. for any employee ●  [GitHub](https://github.com/honoyr/)(honoyr)*
+> Fremont, CA  ●  <dennis.gonor@gmail.com> ● Authorized to work in U.S. for any employee ●  [GitHub](https://github.com/honoyr/)(honoyr)*
 
 ------
 
