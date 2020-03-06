@@ -102,5 +102,5 @@ Skills & Interests
 
 ----
 
-> *Online resume - 104.197.55.106, linkedin.com/in/gonor,
+> *Online resume - [site.cab/dennis-gonor](www.site.cab/dennis-gonor), linkedin.com/in/gonor,
 > github.com/honoyr
